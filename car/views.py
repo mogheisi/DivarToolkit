@@ -11,8 +11,14 @@ from .models import *
 from .forms import *
 
 
+def base(request):
+    if request.method == 'GET':
+        return render(request, 'base.html')
+
+
 def index(request):
-    return render(request, 'index.html')
+    if request.method == 'GET':
+        return render(request, 'index.html')
 
 
 def scraping(request):
@@ -67,7 +73,7 @@ def scraping(request):
                         Car.objects.create(name=name[0], price=new_price, kilometer=new_kilometer, model=unidecode(model[0]), color=color[-1], link=f"https://divar.ir{link[0]}")
             if count == searches:
 
-                return render(request, 'car/done.html', {'searches': searches})
+                return render(request, 'predict.html', {'searches': searches})
 
 
 def show(request):
@@ -79,7 +85,7 @@ def show(request):
 def predict(request):
     if request.method == 'GET':
         form = CarForm()
-        return render(request, 'car/predict.html', {'form': form})
+        return render(request, 'predict.html', {'form': form})
     if request.method == 'POST':
         form = CarForm(request.POST)
         x = []

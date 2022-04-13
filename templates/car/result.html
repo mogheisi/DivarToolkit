@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>result</title>
-</head>
-<body>
-    <h1>Predicted car price:</h1>
-    The price of the car should be around : <h2>{{ answer }}</h2>
-</body>
-</html>
+{% extends "base.html" %}
+
+{% block title %} پیشبینی قیمت خودرو{% endblock %}
+{% block content %}
+    <h1> قیمت خودروی کارکرده - محاسبه آنلاین قیمت </h1>
+    <h4> سریع، آسان، رایگان</h4>
+
+     <p> قیمت خودرو باید در حدود </p>  <h2>{{ answer }} تومان </h2> <p> باشد </p>
+{% endblock %}

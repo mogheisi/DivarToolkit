@@ -3,6 +3,7 @@ from django.urls import path
 
 urlpatterns = [
     path('', index, name='index'),
+    path('base/', base),
     path('car/', scraping, name='car_list'),
     path('car/show/', show, name='car_show'),
     path('car/predict/', predict, name='car_predict'),
