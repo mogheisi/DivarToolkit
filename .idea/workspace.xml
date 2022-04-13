@@ -5,103 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b175a01a-70f7-407d-9aaa-99c640e094e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/node_modules/aos/test/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/predict.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/car/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/car/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/car/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/car/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/car.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/done.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/fonts/Yekan.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/fonts/Yekan.vfc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/fonts/Yekan.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/fonts/Yekan.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/images/3d-hands.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/images/3d-stripy-hat-man.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/images/3d-stripy-man-graph.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/images/bmw-car.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/images/bus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/images/download-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/images/footer-trust-ecunion.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/images/footer-trust-enamad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/images/footer-trust-samandehi.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/images/sport-car.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/images/spot-geotag-line-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/script/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/show.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/styles/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/styles/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/divar/styles/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/divar-toolkit/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/CONTRIBUTING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/demo/async.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/demo/async.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/demo/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/demo/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/demo/simple.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/demo/simple.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/dist/aos.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/dist/aos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/dist/aos.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/dist/aos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/karma.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/postcss.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/src/js/aos.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/src/js/aos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/src/js/helpers/calculateOffset.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/src/js/helpers/calculateOffset.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/src/js/helpers/detector.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/src/js/helpers/detector.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/src/js/helpers/elements.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/src/js/helpers/elements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/src/js/helpers/handleScroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/src/js/helpers/handleScroll.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/src/js/helpers/prepare.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/src/js/helpers/prepare.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/src/js/libs/observer.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/src/js/libs/observer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/src/js/libs/offset.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/src/js/libs/offset.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/src/sass/_animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/src/sass/_animations.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/src/sass/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/src/sass/_core.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/src/sass/_easing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/src/sass/_easing.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/src/sass/aos.scss" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/src/sass/aos.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/test/aos.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/test/aos.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/test/calculateOffset.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/test/calculateOffset.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/test/elements.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/test/elements.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/test/fixtures/aos-offset.fixture.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/test/fixtures/aos-offset.fixture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/test/fixtures/aos.fixture.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/test/fixtures/aos.fixture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/test/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/aos/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/aos/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/classlist-polyfill/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/classlist-polyfill/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/classlist-polyfill/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/classlist-polyfill/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/classlist-polyfill/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/classlist-polyfill/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/classlist-polyfill/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/classlist-polyfill/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/classlist-polyfill/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/classlist-polyfill/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/classlist-polyfill/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/classlist-polyfill/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/classlist-polyfill/script/test" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/classlist-polyfill/script/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/classlist-polyfill/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/classlist-polyfill/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/classlist-polyfill/tests/qunit.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/classlist-polyfill/tests/qunit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/classlist-polyfill/tests/remove.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/classlist-polyfill/tests/remove.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/classlist-polyfill/tests/runner.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/classlist-polyfill/tests/runner.coffee" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/classlist-polyfill/tests/tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/classlist-polyfill/tests/tests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/lodash.debounce/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/lodash.debounce/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/lodash.debounce/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/lodash.debounce/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/lodash.debounce/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/lodash.debounce/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/lodash.debounce/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/lodash.debounce/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/lodash.throttle/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/lodash.throttle/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/lodash.throttle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/lodash.throttle/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/lodash.throttle/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/lodash.throttle/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/node_modules/lodash.throttle/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/templates/node_modules/lodash.throttle/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/predict.html" beforeDir="false" afterPath="$PROJECT_DIR$/divar-toolkit/predict.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divar-toolkit/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/divar-toolkit/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/car/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/car/result.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +24,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -198,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649599727971</updated>
       <workItem from="1649599734549" duration="20768000" />
-      <workItem from="1649753494025" duration="23619000" />
+      <workItem from="1649753494025" duration="24285000" />
     </task>
     <servers />
   </component>
