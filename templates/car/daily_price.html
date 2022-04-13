@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Car Daily Price</title>
+</head>
+<body>
+<h1>Car Daily Price</h1>
+
+<h2> {{ date }} </h2>
+{% for car in daily_price %}
+    <p>{{ car.name }} - {{ car.price }}</p> -- {{ car.changes }}<br/>
+    <p>{{ car.detail }}</p><br>
+    <p> ----------------------------------------------------------------- </p>
+{% endfor %}
+</body>
+</html>

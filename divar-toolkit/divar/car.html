@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+    <!-- Meta tags -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bowser tite -->
+    <title>جعبه ابزار دیوار | اطلاعات خودروها</title>
+    <!-- Browser icon -->
+    <link rel="icon" href="./images/favicon.ico">
+    <!-- Custom style -->
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+
+<body>
+    <h2>Please enter the number of searches you want: </h2>
+    <form method="POST" class="post-form">{% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit" class="save btn btn-default">Do</button>
+        <p><a href="show">Show saved cars</a></p>
+        <p><a href="predict">Predict car price</a></p>
+    </form>
+</body>
+
+</html>

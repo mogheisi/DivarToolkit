@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+    <!-- Meta tags -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bowser tite -->
+    <title>جعبه ابزار دیوار | خودرو های ذخیره شده</title>
+    <!-- Browser icon -->
+    <link rel="icon" href="./images/favicon.ico">
+    <!-- Custom style -->
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+
+<body>
+    <h1>Saved cars</h1>
+    <ul>
+        {% for car in cars %}
+        <li><a href="{{ car.link }}">{{ car.name }} </a></li>
+
+        {% endfor %}
+
+    </ul>
+</body>
+
+</html>

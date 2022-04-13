@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mobile Daily Price</title>
+</head>
+<body>
+<h1>فهرست قیمت گوشی موبایل نو</h1>
+
+<h2> {{ date }} </h2>
+{% for mobile in daily_price %}
+    <p>{{ mobile.name }} - {{ mobile.price }}</p> -- {{ mobile.changes }}<br/>
+    <p>{{ mobile.detail }}</p>
+    <p> ----------------------------------------------------------------- </p>
+{% endfor %}
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Saved cars</title>
+</head>
+<body>
+    <h1>Saved cars</h1>
+    <ul>
+        {% for car in cars %}
+            <li><a href="{{ car.link }}">{{ car.name }} </a></li>
+
+        {% endfor %}
+
+    </ul>
+</body>
+</html>
